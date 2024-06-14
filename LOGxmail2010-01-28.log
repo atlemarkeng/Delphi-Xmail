@@ -1,0 +1,81 @@
+Dato = 28.01.10
+18:35:03: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:37:33: SMTP Connected: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:37:33: File  sent to n12285@nrk.no
+Dato = 28.01.10
+18:37:33: SMTP DisConnect: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:38:12: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:41:55: SMTP Connected: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:42:05: SMTP DisConnect: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:42:05: Error sending: n12285@nrk.no
+Dato = 28.01.10
+18:42:28: SMTP Connected: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:42:38: SMTP DisConnect: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:42:38: Error sending: n12285@nrk.no
+Dato = 28.01.10
+18:42:41: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:43:06: SMTP Connected: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:43:16: SMTP DisConnect: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:43:16: Error sending: n12285@nrk.no
+Dato = 28.01.10
+18:43:24: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:43:44: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:44:10: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:46:44: SMTP Connected: MAEVS01
+Dato = 28.01.10
+18:46:44: File  sent to n12285@nrk.no
+Dato = 28.01.10
+18:46:44: SMTP DisConnect: MAEVS01
+Dato = 28.01.10
+18:47:35: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:47:59: SMTP Connected: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:48:09: SMTP DisConnect: internsmtp.felles.ds.nrk.no
+Dato = 28.01.10
+18:48:09: Error sending: n12285@nrk.no
+Dato = 28.01.10
+18:48:43: SMTP Connected: internsmtp
+Dato = 28.01.10
+18:48:53: SMTP DisConnect: internsmtp
+Dato = 28.01.10
+18:48:53: Error sending: n12285@nrk.no
+Dato = 28.01.10
+18:49:11: SMTP Connected: MAEVS01
+Dato = 28.01.10
+18:49:21: SMTP DisConnect: MAEVS01
+Dato = 28.01.10
+18:49:21: Error sending: n12285@nrk.no
+Dato = 28.01.10
+18:49:24: Program terminated: 28.01.10
+
+Dato = 28.01.10
+18:49:40: SMTP Connected: MAEVS01
+Dato = 28.01.10
+18:49:40: File  sent to n12285@nrk.no
+Dato = 28.01.10
+18:49:40: SMTP DisConnect: MAEVS01
+Dato = 28.01.10
+18:49:48: Program terminated: 28.01.10
+

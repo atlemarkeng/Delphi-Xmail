@@ -1,0 +1,590 @@
+09:15:27: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\mail\Log\
+TodoDir = F:\d7\projects\mail\Todo\
+DoneDir = F:\d7\projects\mail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+09:15:53: SMTP Connected: MAMIME03
+09:15:54: File  sent to atle.markeng@nrk.no
+09:15:54: SMTP DisConnect: MAMIME03
+09:16:05: Program terminated: 2006-05-23
+
+09:27:17: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\Projects\mail\Log\
+TodoDir = F:\d7\Projects\mail\Todo\
+DoneDir = F:\d7\Projects\mail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+09:30:35: SMTP Connected: MAMIME03
+09:30:35: File  sent to atle.markeng@nrk.no
+09:30:35: SMTP DisConnect: MAMIME03
+09:31:12: Program terminated: 2006-05-23
+
+09:31:54: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\Projects\mail\Log\
+TodoDir = F:\d7\Projects\mail\Todo\
+DoneDir = F:\d7\Projects\mail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+09:31:56: Program terminated: 2006-05-23
+
+12:25:54: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\Projects\mail\Log\
+TodoDir = F:\d7\Projects\mail\Todo\
+DoneDir = F:\d7\Projects\mail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+12:26:12: Program terminated: 2006-05-23
+
+14:24:39: Startet: 2006-05-23
+Ugyldig(e) oppsett i fil :
+-> F:\d7\projects\xmail\mails.ini
+MAILSERVERSMTP=MAMIME03
+MAILSERVERPOP3=Maexch08
+MAILUSER=teksttv1
+MAILPASSWORD=trine92
+POLLINTERVAL=4
+DELETEMAIL=on
+SENDER=Atle Markeng;atle.markeng@nrk.no
+SOURCE=NRK
+DESTINATION=_sys_x98;atle.markeng@nrk.no
+TODODIR=.\Todo
+DONEDIR=.\Done
+LOGDIR=.\Log
+DAYSTOKEEPLOG=15
+DEBUG=on
+PERSONDB=NYDI.X_EMP
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:26:10: Program terminated: 2006-05-23
+
+14:26:12: Startet: 2006-05-23
+Ugyldig(e) oppsett i fil :
+-> F:\d7\projects\xmail\mails.ini
+MAILSERVERSMTP=MAMIME03
+MAILSERVERPOP3=Maexch08
+MAILUSER=teksttv1
+MAILPASSWORD=trine92
+POLLINTERVAL=4
+DELETEMAIL=on
+SENDER=Atle Markeng;atle.markeng@nrk.no
+SOURCE=NRK
+DESTINATION=_sys_x98;atle.markeng@nrk.no
+TODODIR=.\Todo
+DONEDIR=.\Done
+LOGDIR=.\Log
+DAYSTOKEEPLOG=15
+DEBUG=on
+PERSONDB=NYDI.X_EMP
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:26:31: Program terminated: 2006-05-23
+
+14:27:09: Startet: 2006-05-23
+Ugyldig(e) oppsett i fil :
+-> F:\d7\projects\xmail\mails.ini
+MAILSERVERSMTP=MAMIME03
+MAILSERVERPOP3=Maexch08
+MAILUSER=teksttv1
+MAILPASSWORD=trine92
+POLLINTERVAL=4
+DELETEMAIL=on
+SENDER=Atle Markeng;atle.markeng@nrk.no
+SOURCE=NRK
+DESTINATION=_sys_x98;atle.markeng@nrk.no
+TODODIR=.\Todo
+DONEDIR=.\Done
+LOGDIR=.\Log
+DAYSTOKEEPLOG=15
+DEBUG=on
+PERSONDB=NYDI.X_EMP
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:27:22: Program terminated: 2006-05-23
+
+14:27:43: Startet: 2006-05-23
+Ugyldig(e) oppsett i fil :
+-> F:\d7\projects\xmail\mails.ini
+MAILSERVERSMTP=MAMIME03
+MAILSERVERPOP3=Maexch08
+MAILUSER=teksttv1
+MAILPASSWORD=trine92
+POLLINTERVAL=4
+DELETEMAIL=on
+SENDER=Atle Markeng;atle.markeng@nrk.no
+SOURCE=NRK
+DESTINATION=_sys_x98;atle.markeng@nrk.no
+TODODIR=.\Todo
+DONEDIR=.\Done
+LOGDIR=.\Log
+DAYSTOKEEPLOG=15
+DEBUG=on
+PERSONDB=NYDI.X_EMP
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:28:01: Program terminated: 2006-05-23
+
+14:29:10: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:29:32: Program terminated: 2006-05-23
+
+14:31:18: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+PersonDB= 
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:31:28: Program terminated: 2006-05-23
+
+14:31:38: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+PersonDB= 
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+14:31:48: Program terminated: 2006-05-23
+
+14:31:59: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+DESTINATION = NYDI.X_EMP
+Dato = 2006-05-23
+14:32:08: Program terminated: 2006-05-23
+
+14:36:07: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = MAEXCH08
+MailUser = TEKSTTV1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\LOG\
+TodoDir = F:\d7\projects\xmail\TODO\
+DoneDir = F:\d7\projects\xmail\DONE\
+DaysToKeepLog = 15
+SENDER = ATLE MARKENG;ATLE.MARKENG@NRK.NO
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+DESTINATION = NYDI.X_EMP
+Dato = 2006-05-23
+14:36:16: Program terminated: 2006-05-23
+
+14:36:35: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+DESTINATION = NYDI.X_EMP
+Dato = 2006-05-23
+14:36:49: Program terminated: 2006-05-23
+
+15:26:11: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+15:26:21: Program terminated: 2006-05-23
+
+15:26:53: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+15:27:02: Program terminated: 2006-05-23
+
+15:27:58: Startet: 2006-05-23
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 2006-05-23
+15:28:03: Program terminated: 2006-05-23
+
+16:17:36: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:17:52: Program terminated: 23.05.06
+
+16:18:43: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:18:54: Program terminated: 23.05.06
+
+16:23:59: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:24:49: Program terminated: 23.05.06
+
+16:25:30: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:25:54: Program terminated: 23.05.06
+
+16:26:26: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:26:52: Program terminated: 23.05.06
+
+16:26:55: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:27:19: Program terminated: 23.05.06
+
+16:27:21: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:27:39: Program terminated: 23.05.06
+
+16:29:42: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:30:28: Program terminated: 23.05.06
+
+16:30:30: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:30:59: Program terminated: 23.05.06
+
+16:31:01: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:31:11: Program terminated: 23.05.06
+
+16:33:04: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:33:16: Program terminated: 23.05.06
+
+16:34:13: Startet: 23.05.06
+Aktive parametere:
+MailServerSMTP = MAMIME03
+MailServerPOP3 = Maexch08
+MailUser = teksttv1
+PollInterval = 4 s
+DeleteMail = ON
+LogDir = F:\d7\projects\xmail\Log\
+TodoDir = F:\d7\projects\xmail\Todo\
+DoneDir = F:\d7\projects\xmail\Done\
+DaysToKeepLog = 15
+SENDER = Atle Markeng;atle.markeng@nrk.no
+SOURCE= NRK
+PersonDB= NYDI.X_EMP
+DESTINATION = _SYS_X98;atle.markeng@nrk.no
+Dato = 23.05.06
+16:34:37: Program terminated: 23.05.06
+
